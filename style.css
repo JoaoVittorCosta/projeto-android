@@ -20,7 +20,7 @@
     --cor03: #2EA664;
     --cor04: #195A36;
 
-    --fonte1: 'Bebas Neue', cursive;
+    --fonte1: 'PT Sans', cursive;
     --fonte2: 'idroid',cursive;
     --fonte3: Arial, Helvetica, sans-serif;
 }
@@ -75,6 +75,8 @@ main p{
 main h2{
     font-family: 'idroid' ; 
     padding: 10px 0px 0px 10px;
+    font-size: 1.4em;
+    
 
 }
 main h3{
@@ -165,6 +167,7 @@ aside h3{
     background-color: var(--cor04);
     border-radius: 10px 10px 0px 0px;
     padding: 5px;
+    font-family:var(--fonte1) ;
 }
 aside strong{
     color: var(--cor03);
