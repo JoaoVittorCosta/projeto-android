@@ -4,7 +4,7 @@
     font-family: 'idroid';
     src: url('idroid'); }
 @font-face {
-    font-family: 'PTSans';
+    font-family:'PTSans';
     src: url('PTSans-Bold.ttf');
 }
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
@@ -36,7 +36,7 @@ header{
 }
 header h1{
     text-shadow: 5px 3px 5px #00000054;
-    font-family: 'PTSans',sans-serif;
+    font-family:'PTSans'
     
     
     
