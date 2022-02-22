@@ -33,6 +33,7 @@ header{
     background-image: linear-gradient(to top,#195A36,#2EA664,#40E68B  );
     text-align: center;
     color: white;
+    padding-top: 10px;
 }
 header h1{
     text-shadow: 5px 3px 5px #00000054;
@@ -46,7 +47,7 @@ header > p{
     font-family: Arial, Helvetica, sans-serif;
     max-width: 350px;
     margin:auto;
-    padding: 12px 0px 5px 0px;
+    padding: 12px 0px 2px 0px;
     margin-bottom: 10px;
     
     
