@@ -20,8 +20,8 @@
     --cor03: #2EA664;
     --cor04: #195A36;
 
-    --fonte1: 'PT Sans', cursive;
-    --fonte2: 'idroid',cursive;
+    --fonte1: 'PTSans', 'sans-serif';
+    --fonte2: 'idroid','cursive';
     --fonte3: Arial, Helvetica, sans-serif;
 }
 body{
